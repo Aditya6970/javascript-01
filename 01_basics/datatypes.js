@@ -25,3 +25,11 @@ let state = null  // null => standalone value
 // object 
 
 console.log(typeof "aditya")
+
+/* data types are of two types 
+1. permitive 
+7 types : string, number, boolean, null, undefined, symbol,BigInt
+
+
+2. non premitive(reference type)
+   arrays , objects, functions
